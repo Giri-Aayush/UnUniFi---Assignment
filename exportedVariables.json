@@ -1,0 +1,34 @@
+{
+  "Main Green": {
+    "$type": "color",
+    "$value": "#58d6a9"
+  },
+  "Primary Blue": {
+    "$type": "color",
+    "$value": "#387cff"
+  },
+  "White Blue": {
+    "$type": "color",
+    "$value": "#adc9ff"
+  },
+  "Primary White": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Main Black": {
+    "$type": "color",
+    "$value": "#1f2736"
+  },
+  "Blue Gray": {
+    "$type": "color",
+    "$value": "#39465d"
+  },
+  "Gray Glass": {
+    "$type": "color",
+    "$value": "#253548"
+  },
+  "Main Red": {
+    "$type": "color",
+    "$value": "#ea3943"
+  }
+}
