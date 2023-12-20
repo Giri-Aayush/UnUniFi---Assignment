@@ -49,7 +49,7 @@ Unlock a unified development experience with UnUniFi, a project that demonstrate
     ```
 
 ## Screenshots
-![Alt text](https://ibb.co/rscC2bS)
+![Alt text](image.jpg)
 
 
 ## Additional Enhancements:
